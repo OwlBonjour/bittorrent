@@ -1,5 +1,5 @@
 
-BitTorrent
+BitTorrent(https://www.v2ex.com/t/296267)
 ======
 ## **bittorrent.py**
 GUI for these tools implemented by QT4.
